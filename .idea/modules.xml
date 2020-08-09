@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ihuomiao-api/ihuomiao-api.iml" filepath="$PROJECT_DIR$/ihuomiao-api/ihuomiao-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ihuomiao-common/ihuomiao-common.iml" filepath="$PROJECT_DIR$/ihuomiao-common/ihuomiao-common.iml" />
+    </modules>
+  </component>
+</project>
